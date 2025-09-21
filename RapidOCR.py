@@ -57,4 +57,5 @@ def RapidOCR(path):
 RapidOCR(r"C:\Users\NX542NJ\Downloads\Coordinate Delivery Based Outbound Transportation Planning.pdf")
 123
 ======================================
+xxxxxxxxxxxxxxxxxxxxxxxxx
 
